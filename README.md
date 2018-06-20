@@ -1,7 +1,7 @@
 # fragm3nt
 multiple file rename using c++
   
-  	step1: debug and place .exe file in a folder where your files are located
+  	step1: compile and place .exe file in a folder where your files are located
  	step2: select all your files -> right click on the first one and rename to A
  	step3: make sure you have callme.bat(empty batch file) and add_tospace.bat in same folder with ..
 	        ..this .cpp or .exe file
